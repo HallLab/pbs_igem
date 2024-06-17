@@ -1,3 +1,9 @@
+# Custom Project Specific .gitignore
+Data
+Support
+*.csv
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
