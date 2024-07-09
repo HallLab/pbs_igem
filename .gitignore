@@ -1,5 +1,6 @@
 # Custom Project Specific .gitignore
 Data
+data_v1
 Support
 *.csv
 *.xlsx
